@@ -52,6 +52,8 @@
         methods: {
             handleConnect() {
                 this.$errorMessage = null;
+                this.$router.push('/');
+                this.$router.name = '/';
 
                 if (this.hasConnected) {
                     console.log(`Already connected!`);

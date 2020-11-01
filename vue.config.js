@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === 'production' ? 'pocket-pathfinder-client' : ''
+    publicPath: process.env.NODE_ENV === 'production' ? '/pocket-pathfinder-client/' : '/'
 };

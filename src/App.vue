@@ -154,10 +154,6 @@
             this.hasConnected = false;
             this.$event.$on('send', this.sendData);
             this.fetchIP();
-
-            if (!this.session && !window.location.href !== '/#/') {
-                window.location.href = '/#/';
-            }
         }
     };
 </script>

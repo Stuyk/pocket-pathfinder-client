@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/pocket-pathfinder-client/precache-manifest.2fead0a25f848bf5325cb70a7b6b3bec.js"
+  "/pocket-pathfinder-client/precache-manifest.4b7da2a480947f6fc6c8e97f52a9659b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pocket-pathfinder-client"});

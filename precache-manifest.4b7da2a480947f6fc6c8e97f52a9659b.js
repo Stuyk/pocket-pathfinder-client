@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "277d13a8655ce9096b13",
+    "revision": "61c45cfc1b6963b4f271",
     "url": "/pocket-pathfinder-client/css/app.1ef04b55.css"
   },
   {
@@ -12,7 +12,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pocket-pathfinder-client/img/logo.de631399.svg"
   },
   {
-    "revision": "6cd9fec96b6cf5f354d47b59f999d676",
+    "revision": "6cd4e34044f96268f846c5b8df13a74f",
     "url": "/pocket-pathfinder-client/index.html"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/pocket-pathfinder-client/js/about.09f940c7.js"
   },
   {
-    "revision": "277d13a8655ce9096b13",
-    "url": "/pocket-pathfinder-client/js/app.909a9368.js"
+    "revision": "61c45cfc1b6963b4f271",
+    "url": "/pocket-pathfinder-client/js/app.4743166a.js"
   },
   {
     "revision": "128691e523ec11d11bc8",
